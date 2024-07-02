@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![Thumbnail Studio DEV (10)](https://github.com/oliver-gomes/quill-wizards-ai/assets/32399333/be69a15a-f658-4410-9d23-f099cb6ccedf)
+
+In this tutorial, you will learn how to create  full stack Google Doc clone, with AI features to help you suggest storylines, plot twist and even resume ideas while covering all CRUD operations such as adding, editing, deleting docs, authentication, data manipulation using Next.js, TypeScript,  React, Clerk, Google Sign in, Prisma,  Neon, ShadCN UI, React Hook forms, Zod, OpenAI, TailwindCSS and more.
 
 ## Getting Started
 
